@@ -244,9 +244,14 @@ a:hover .herobox4 img{
 
     }
 
-    .herobox1 img, .herobox2 img, .herobox3 img,.herobox4 img{
+   .herobox2 img, .herobox3 img,.herobox4 img{
         width: 100%;
         height: auto;
+    }
+
+    .herobox1 img{
+        width: 100%;
+        height: 69%;
     }
 
     
